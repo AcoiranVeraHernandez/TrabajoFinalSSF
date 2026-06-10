@@ -1,2 +1,0 @@
-# TrabajoFinalSSF
-Quintin,Fran,Acoiran
