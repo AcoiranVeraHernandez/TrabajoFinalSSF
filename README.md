@@ -1,5 +1,5 @@
 # Gitbook:
-[https://app.gitbook.com/invite/c4wVYtU2RkTYljG5r7Dj/dCPgdVZSlpZGwzZDfn4Y](https://trabajossffinal-qffa.gitbook.io/trabajossffinal-qffa-docs/)
+https://trabajossffinal-qffa.gitbook.io/trabajossffinal-qffa-docs/
 
 # Documentación del Proyecto Parking Java:
 [Documentación.md](https://github.com/user-attachments/files/28901408/Documentacion.md)
